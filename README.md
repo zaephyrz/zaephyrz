@@ -2,7 +2,7 @@
 ---
 
 - I’m @zaephyrz
-- 👀 I’m interested in Linux, Free and Open Source Software (FOSS), Infosec, Astronomy and Music among others.
+- 👀 I’m interested in android, linux, free and open source software (FOSS), infosec, astronomy and music, among others.
 - 🌱 I’m currently learning Flutter and polishing up on my Python skills.
 
 <!---
