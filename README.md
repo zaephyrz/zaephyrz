@@ -1,11 +1,34 @@
-👋 Hi
----
+# 👋 Hi, I'm @zaephyrz
 
-- 👾 I’m Shana
-- 👀 I’m interested in android, linux, free and open source software (FOSS), infosec, astronomy and music, among others.
-- 🌱 I’m currently learning Flutter and polishing up on my Python skills.
+**Open-Source Enthusiast | Cross-Platform Developer | Technologist**
 
-<!---
-zaephyr-sh/zaephyr-sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Technical Skillset
+| Area          | Technologies                                                                 |
+|---------------|-----------------------------------------------------------------------------|
+| **Mobile**    | Flutter (Android/iOS/Desktop)                                               |
+| **Backend**   | Python, PHP, XAMPP (Apache/MySQL), REST APIs                                |
+| **DevOps**    | Linux System Administration, Bash Scripting, Docker, Podman                 |
+| **Tools**     | Git/GitHub, VS Code, Neovim                                                 |
+
+## 🚀 Current Focus
+- 📱 Building production-ready apps with **Flutter**
+- 🐍 Mastering **Python** for automation and data analysis
+- 🔒 Exploring **Infosec** with CTFs and Linux
+- 🌌 Learning to contribute to **FOSS software**
+
+## 🌱 Interests & Passions
+- ♻️ Free and Open Source Software (FOSS)
+- 🪐 Amateur astronomy and space tech
+- 🐧 Linux customization (Bluefin/Fedora Silverblue daily driver)
+- 🎵 Music production & audio programming
+
+## 🛠️ Recent Projects
+1. **Flutter Music Player** - Cross-platform app with XAMPP backend
+2. **Python Expense Tracker** - Tkinter GUI with Matplotlib visualization
+3. **Python Scripts** - Hacking and system automation scripts
+
+## 📫 Let's Connect
+[![GitHub](https://img.shields.io/badge/GitHub-zaephyrz-blue?logo=github)](https://github.com/zaephyrz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue?logo=linkedin)](https://www.linkedin.com/in/shana-mudhai/)
+
+> *"per aspera ad astra."*
