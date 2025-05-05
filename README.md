@@ -6,7 +6,7 @@
 | Area          | Technologies                                                                  |
 |---------------|-----------------------------------------------------------------------------  |
 | **Mobile**    | Flutter (Android/iOS/Desktop)                                                 |
-| **Backend**   | Python, FastAPI, Flask, Django, PHP, XAMPP (Apache/MySQL), FastAPI, REST APIs |
+| **Backend**   | Python, FastAPI, Flask, Django, PHP, XAMPP (Apache/MySQL), REST APIs          |
 | **DevOps**    | Linux System Administration, Bash Scripting, Docker, Podman                   |
 | **Tools**     | Git/GitHub, VS Code, Neovim                                                   |
 
