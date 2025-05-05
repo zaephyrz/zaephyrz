@@ -29,6 +29,6 @@
 
 ## 📫 Let's Connect
 [![GitHub](https://img.shields.io/badge/GitHub-zaephyrz-blue?logo=github)](https://github.com/zaephyrz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue?logo=linkedin)](https://www.linkedin.com/in/shana-mudhai/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shana-blue?logo=linkedin)](https://www.linkedin.com/in/shana-mudhai/)
 
 > *"per aspera ad astra."*
