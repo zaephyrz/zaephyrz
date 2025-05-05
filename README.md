@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @zaephyrz
 
-**Open-Source Enthusiast | Cross-Platform Developer | Technologist**
+**Open-Source Enthusiast | Flutter Developer | Technologist**
 
 ## 🔧 Technical Skillset
 | Area          | Technologies                                                                 |
