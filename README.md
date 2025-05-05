@@ -3,12 +3,12 @@
 **Open-Source Enthusiast | Flutter Developer | Technologist**
 
 ## 🔧 Technical Skillset
-| Area          | Technologies                                                                 |
-|---------------|-----------------------------------------------------------------------------|
-| **Mobile**    | Flutter (Android/iOS/Desktop)                                               |
-| **Backend**   | Python, PHP, XAMPP (Apache/MySQL), REST APIs                                |
-| **DevOps**    | Linux System Administration, Bash Scripting, Docker, Podman                 |
-| **Tools**     | Git/GitHub, VS Code, Neovim                                                 |
+| Area          | Technologies                                                                  |
+|---------------|-----------------------------------------------------------------------------  |
+| **Mobile**    | Flutter (Android/iOS/Desktop)                                                 |
+| **Backend**   | Python, FastAPI, Flask, Django, PHP, XAMPP (Apache/MySQL), FastAPI, REST APIs |
+| **DevOps**    | Linux System Administration, Bash Scripting, Docker, Podman                   |
+| **Tools**     | Git/GitHub, VS Code, Neovim                                                   |
 
 ## 🚀 Current Focus
 - 📱 Building production-ready apps with **Flutter**
@@ -29,6 +29,6 @@
 
 ## 📫 Let's Connect
 [![GitHub](https://img.shields.io/badge/GitHub-zaephyrz-blue?logo=github)](https://github.com/zaephyrz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shana-blue?logo=linkedin)](https://www.linkedin.com/in/shana-mudhai/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zaephyrz-blue?logo=linkedin)](https://www.linkedin.com/in/shana-mudhai/)
 
 > *"per aspera ad astra."*
