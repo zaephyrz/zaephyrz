@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @zaephyrz
+# 👋 Hi, I'm Shana
 
 **Open-Source Enthusiast | Flutter Developer | Technologist**
 
