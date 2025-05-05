@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shana
 
-**Open-Source Enthusiast | Flutter Developer | Technologist**
+** Flutter Developer | Technologist | FOSS Enthusiast**
 
 ## 🔧 Technical Skillset
 | Area          | Technologies                                                                  |
