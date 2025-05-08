@@ -5,7 +5,7 @@
 ## 🔧 Technical Skillset
 | Area          | Technologies                                                                  |
 |---------------|-----------------------------------------------------------------------------  |
-| **Mobile**    | Flutter (Android/iOS/Desktop)                                                 |
+| **Mobile**    | Flutter (Android/iOS/Web/Desktop)                                             |
 | **Backend**   | Python, FastAPI, Flask, Django, XAMPP (Apache/MySQL/PHP), REST APIs           |
 | **DevOps**    | Linux System Administration, Bash Scripting, Docker, Podman                   |
 | **Tools**     | Git/GitHub, VS Code, Neovim                                                   |
