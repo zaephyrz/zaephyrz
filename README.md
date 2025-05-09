@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shana
 
-**Flutter Developer | Infosec | FOSS Technologist**
+**Flutter Developer | Aspiring Security Engineer | FOSS Technologist**
 
 ## 🔧 Technical Skillset
 | Area          | Technologies                                                                  |
@@ -20,12 +20,12 @@
 - ♻️ Free and Open Source Software (FOSS)
 - 🪐 Amateur astronomy and space tech
 - 🐧 Linux customization (Bluefin/Fedora Silverblue daily driver)
-- 🎵 Music production & audio programming
+- 🎵 Music listening & production
 
 ## 🛠️ Recent Projects
 1. **Flutter Music Player** - Cross-platform app with XAMPP backend
 2. **Python Expense Tracker** - Tkinter GUI with Matplotlib visualization
-3. **Python Scripts** - Hacking and system automation scripts
+3. **Python Scripts** - Hacking and system automation scripts (private)
 
 ## 📫 Let's Connect
 [![GitHub](https://img.shields.io/badge/GitHub-zaephyrz-blue?logo=github)](https://github.com/zaephyrz)
