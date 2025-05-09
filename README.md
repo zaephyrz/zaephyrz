@@ -13,7 +13,7 @@
 ## 🚀 Current Focus
 - 📱 Building production-ready apps with **Flutter**
 - 🐍 Mastering **Python** for automation and data analysis
-- 🔒 Exploring **Infosec** with CTFs and Linux
+- 🔒 Exploring **Infosec** with certifications, CTFs, and Linux
 - 🌌 Learning to contribute to **FOSS software**
 
 ## 🌱 Interests & Passions
