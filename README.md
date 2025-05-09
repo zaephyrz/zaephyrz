@@ -19,7 +19,7 @@
 ## 🌱 Interests & Passions
 - ♻️ Free and Open Source Software (FOSS)
 - 🪐 Amateur astronomy and space tech
-- 🐧 Linux customization (Bluefin/Fedora Silverblue daily driver)
+- 🐧 Atomic Linux systems (Bluefin daily driver)
 - 🎵 Music listening & production
 
 ## 🛠️ Recent Projects
