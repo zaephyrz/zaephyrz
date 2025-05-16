@@ -2,7 +2,7 @@
 
 **Flutter Developer | Aspiring Security Engineer | FOSS Technologist**
 
-## 🔧 Technical Skillset
+## 🔧 Tech Stack
 | Area          | Technologies                                                                  |
 |---------------|-----------------------------------------------------------------------------  |
 | **Mobile**    | Flutter (Android/iOS/Web/Desktop)                                             |
