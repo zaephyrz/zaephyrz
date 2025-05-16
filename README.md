@@ -7,7 +7,7 @@
 |---------------|-----------------------------------------------------------------------------  |
 | **Mobile**    | Flutter (Android/iOS/Web/Desktop)                                             |
 | **Backend**   | Python, FastAPI, Flask, Bruno, cURL, XAMPP (Apache/MySQL/PHP)                 |
-| **DevOps**    | Linux (Fedora, Bluefin, Debian), Bash, Docker, Podman, Distrobox              |
+| **DevOps**    | Linux (Fedora, Debian), Bash, Docker, Podman, Distrobox                       |
 | **Tools**     | Git/GitHub, VS Code                                                           |
 
 ## 🚀 Current Focus
