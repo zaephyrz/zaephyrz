@@ -7,7 +7,7 @@
 |---------------|-----------------------------------------------------------------------------  |
 | **Mobile**    | Flutter (Android/iOS/Web/Desktop)                                             |
 | **Backend**   | Python, FastAPI, Flask, Bruno, cURL, XAMPP (Apache/MySQL/PHP)                 |
-| **DevOps**    | Linux System Administration, Bash Scripting, Docker, Podman                   |
+| **DevOps**    | Linux (Fedora, Bluefin, Debian), Bash, Docker, Podman, Distrobox              |
 | **Tools**     | Git/GitHub, VS Code, Neovim                                                   |
 
 ## 🚀 Current Focus
@@ -18,9 +18,10 @@
 
 ## 🌱 Interests & Passions
 - ♻️ Free and Open Source Software (FOSS)
-- 🪐 Amateur astronomy and space tech
+- 👨‍💻 Online privacy and security
 - 🐧 Atomic Linux systems (Bluefin daily driver)
 - 🎵 Music listening & production
+- 🪐 Astronomy and climate change action
 
 ## 🛠️ Recent Projects
 1. **Flutter Music Player** - Cross-platform app with XAMPP backend
