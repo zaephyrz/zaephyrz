@@ -26,7 +26,7 @@
 ## 🛠️ Recent Projects
 1. **Flutter Music Player** - Cross-platform app with XAMPP backend
 2. **Python Expense Tracker** - Tkinter GUI with Matplotlib visualization
-3. **Python Scripts** - Hacking and system automation scripts (private)
+3. **Personal Site** - My personal blog and web portfolio (WIP)
 
 ## 📫 Let's Connect
 [![GitHub](https://img.shields.io/badge/GitHub-zaephyrz-blue?logo=github)](https://github.com/zaephyrz)
