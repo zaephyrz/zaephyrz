@@ -8,7 +8,7 @@
 | **Mobile**    | Flutter (Android/iOS/Web/Desktop)                                                 |
 | **Backend**   | Python, FastAPI, Flask, Bruno, cURL, XAMPP (Apache/MySQL/PHP)                     |
 | **DevOps**    | Linux (Fedora, Ubuntu), Bash, Docker, Podman                                      |
-| **Tools**     | Bluefin, Git/GitHub, VS Code, Doom Emacs, Just, Distrobox, Obsidian, Figma, Canva |
+| **Tools**     | Bluefin, Git/GitHub, VS Code, Doom Emacs, Just, Distrobox, Obsidian, Figma        |
 
 ## 🚀 Current Focus
 - 📱 Building production-ready apps with **Flutter**
