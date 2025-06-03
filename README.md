@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Shana
+# 👋 Hola
 
-**Flutter Developer | Aspiring Security Engineer | FOSS Technologist**
+**Flutter Developer | Aspiring Security Engineer | Technologist**
 
 ## 🔧 Tech Stack
 | Area          | Technologies                                                                      |
@@ -14,7 +14,8 @@
 - 📱 Building production-ready apps with **Flutter**
 - 🐍 Mastering **Python** for automation and data analysis
 - 🔒 Exploring **Infosec** with certifications, CTFs, and Linux
-- 🌌 Learning to contribute to **FOSS software**
+- 🌌 Learning to contribute to **FOSS** projects and communities
+- 🗣️ Learning **Spanish**
 
 ## 🌱 Interests & Passions
 - ♻️ Free and Open Source Software (FOSS)
