@@ -1,4 +1,4 @@
-# 👋 👾
+# 👋 ◪_◪
 
 **AppSec | Technologist**
 
@@ -13,7 +13,7 @@
 ## 🚀 Current Focus
 - 📱 Building production-ready apps with **Flutter**
 - 🐍 Mastering **Python** for automation and data analysis
-- 🔒 Exploring **Infosec** with certifications, CTFs, and Linux
+- 🔒 Exploring **AppSec** (application security engineering) through certifications and CTFs
 - 🌌 Learning to contribute to **FOSS** projects and communities
 - 🗣️ Learning **Spanish**
 
