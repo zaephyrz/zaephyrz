@@ -1,6 +1,6 @@
 # 👋 👾
 
-**Flutter Developer | Aspiring Security Engineer | Technologist**
+**AppSec | Technologist**
 
 ## 🔧 Tech Stack
 | Area          | Technologies                                                                      |
@@ -8,7 +8,7 @@
 | **Mobile**    | Flutter (Android/iOS/Web/Desktop)                                                 |
 | **Backend**   | Python, FastAPI, Flask, Bruno, cURL, XAMPP (Apache/MySQL/PHP)                     |
 | **DevOps**    | Linux (Fedora, Debian), Bash, Docker, Podman                                      |
-| **Tools**     | Bluefin, Git/GitHub, VS Code, Doom Emacs, Just, Distrobox, Obsidian, Figma        |
+| **Tools**     | Bluefin, Git/GitHub, VS Code, Doom Emacs, Just, Distrobox, Obsidian               |
 
 ## 🚀 Current Focus
 - 📱 Building production-ready apps with **Flutter**
