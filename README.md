@@ -1,6 +1,6 @@
 # 👋 ◪_◪
 
-**AppSec | DevSecOps | Technologist**
+**Security Researcher | Technologist**
 
 ## 🔧 Tech Stack
 | Area          | Technologies                                                                      |
