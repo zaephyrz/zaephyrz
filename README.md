@@ -1,6 +1,6 @@
 # 👋 ◪_◪
 
-**Security Researcher | Technologist**
+**Cybersecurity | Technologist**
 
 ## 🔧 Tech Stack
 | Area          | Technologies                                                                      |
