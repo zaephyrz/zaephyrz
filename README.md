@@ -13,7 +13,7 @@
 ## 🚀 Current Focus
 - 📱 Building production-ready apps with **Flutter**
 - 🐍 Mastering **Python** for automation and data analysis
-- 🔒 Exploring **AppSec** (application security engineering) through certifications and CTFs
+- 🔒 Exploring **AppSec** (application security engineering) through certifications and labs
 - 🌌 Learning to contribute to **FOSS** projects and communities
 - 🗣️ Learning **Spanish**
 
