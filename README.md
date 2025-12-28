@@ -24,10 +24,4 @@
 - 🎵 Music listening & production
 - 🪐 Astronomy and climate change action
 
-## 🛠️ Recent Projects
-1. **Smart Patient Demo** - Demo version of a patient app in Flutter
-2. **Music Demo** - Flutter music player with XAMPP backend
-3. **Python Expense Tracker** - Tkinter GUI with Matplotlib visualization
-4. **Personal Site** - My personal blog and web portfolio (WIP)
-
 > *"stay curious 👾"*
