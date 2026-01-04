@@ -1,6 +1,6 @@
 # 👋 ◪_◪
 
-**Cybersecurity | Technologist**
+**Security Engineer | Technologist**
 
 ## 🔧 Tech Stack
 | Area          | Technologies                                                                      |
@@ -15,7 +15,7 @@
 - 🐍 Mastering **Python** for automation and data analysis
 - 🔒 Exploring **AppSec** (application security engineering) through certifications and labs
 - 🌌 Learning to contribute to **FOSS** projects and communities
-- 🗣️ Learning **Spanish**
+- 🗣️ Learning **Zulu**
 
 ## 🌱 Interests & Passions
 - ♻️ Free and Open Source Software (FOSS)
