@@ -6,7 +6,7 @@
 | Area          | Technologies                                                                      |
 |---------------|-----------------------------------------------------------------------------------|
 | **Mobile**    | Flutter (Android/iOS/Web/Desktop)                                                 |
-| **Backend**   | Python, FastAPI, Flask, Bruno, cURL, XAMPP (Apache/MySQL/PHP)                     |
+| **Backend**   | Python, Flask, Django, Bruno, cURL, XAMPP (Apache/MySQL/PHP)                      |
 | **DevOps**    | Linux (Fedora, Debian), Bash, Docker, Podman                                      |
 | **Tools**     | Bluefin, Git/GitHub, VS Code, Doom Emacs, Just, Distrobox, Obsidian               |
 
