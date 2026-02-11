@@ -6,9 +6,9 @@
 | Area          | Technologies                                                                      |
 |---------------|-----------------------------------------------------------------------------------|
 | **Mobile**    | Flutter (Android/iOS/Web/Desktop)                                                 |
-| **Backend**   | Python, Flask, PostgeSQL, Bruno, cURL, XAMPP (Apache/MySQL/PHP)                   |
-| **DevOps**    | Linux (Fedora, Debian), Docker, Podman                                            |
-| **Tools**     | Bluefin, Git/GitHub, VS Code, Doom Emacs, Distrobox, Obsidian                     |
+| **Backend**   | Python, Flask, Sqlite, PostgeSQL, Bruno, cURL, XAMPP                              |
+| **DevOps**    | Linux (Fedora, Debian), Docker, Podman, Git/GitHub                                |
+| **Tools**     | VS Code, Doom Emacs, Distrobox, Obsidian                                          |
 
 ## 🚀 Current Focus
 - 📱 Building production-ready apps with **Flutter**
