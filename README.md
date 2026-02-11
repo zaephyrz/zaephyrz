@@ -1,12 +1,12 @@
 # 👋 ◪_◪
 
-**Security Engineer | Technologist**
+**Application Security Engineer | Technologist**
 
 ## 🔧 Tech Stack
 | Area          | Technologies                                                                      |
 |---------------|-----------------------------------------------------------------------------------|
 | **Mobile**    | Flutter (Android/iOS/Web/Desktop)                                                 |
-| **Backend**   | Python, Flask, Django, Bruno, cURL, XAMPP (Apache/MySQL/PHP)                      |
+| **Backend**   | Python, Flask, PostgeSQL, Bruno, cURL, XAMPP (Apache/MySQL/PHP)                   |
 | **DevOps**    | Linux (Fedora, Debian), Docker, Podman                                            |
 | **Tools**     | Bluefin, Git/GitHub, VS Code, Doom Emacs, Distrobox, Obsidian                     |
 
